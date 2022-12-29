@@ -1,2 +1,2 @@
 # Algorithms
-Python : Some Examples Of Python Uses 
+Python : Some Examples Of Python Algorithms
